@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **React, Laravel, DSA**
+ 🌱 I’m currently learning **React, DSA**
 
 💬 Ask me about **Bootstrap, Python**
 
