@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sujithraj!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **React, DSA**
+ 🌱 I’m currently learning **Advance**
 
-💬 Ask me about **Bootstrap, Python**
+💬 Ask me about **Core Java**
 
 ⚡ Fun fact **Wanderlust**
 
@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ [Languages-Tools-Frameworks] ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=java" /><br>
 </div>
 
 <br/>
