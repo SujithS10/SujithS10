@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Advance**
+ 🌱 I’m currently learning **MySQL**
 
 💬 Ask me about **Core Java**
 
