@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **MySQL**
+ 🌱 I’m currently learning **Frameworks**
 
-💬 Ask me about **Core Java**
+💬 Ask me about **Core Java, Advanced Java(JDBC,J2EE & JSP)**
 
-⚡ Fun fact **Wanderlust**
+⚡ Fun fact **Problem Solving**
 
  </div>
  
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ [Languages-Tools-Frameworks] ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,java,mysql" />
     <img src="https://skillicons.dev/icons?i=java" /><br>
 </div>
 
